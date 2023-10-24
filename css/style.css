@@ -211,7 +211,7 @@ header > div {
 	left:-23px;
 	width:130px;
 	z-index: 5;
-	background: #121010;
+	background: #423e3e;
 	padding: 20px 20px;
 	border-radius: 4px;
 }
@@ -223,7 +223,7 @@ header > div {
 	position:relative;
 	display:inline-block;
 	padding:0 0 !important;
-	color: #423e3e !important;
+	color: #fff !important;
 	font: 16px 'Contrail One', sans-serif;
 	text-decoration:none;
 	z-index:1;
@@ -246,7 +246,7 @@ header > div {
 	left:152px;
 	width:130px;
 	z-index: 5;
-	background: #121010;
+	background: #423e3e;
 	padding: 20px 20px;
 	border-radius: 4px;
 }
