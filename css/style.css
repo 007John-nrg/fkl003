@@ -158,9 +158,9 @@ header > div {
 #menu > li > a{
 	position:relative;
 	display:inline-block;
-	font: 20px/34px 'Contrail One', sans-serif;
+	font: 10px/24px 'Contrail One', sans-serif;
 	color: #32cd32;
-	padding-right: 4px;
+	padding-right: 3px;
 	text-align:left;
 	text-decoration:none;
 	
