@@ -1,5 +1,8 @@
 /* Left & Right alignment */
-
+@font-face {
+	font-family: 'Contrail One';
+	src: url('https://fonts.googleapis.com/css2?family=Contrail+One:wght@400&display=swap');
+  }
 
 .left {
 	float:left;
